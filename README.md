@@ -1,9 +1,14 @@
-🚀 TCP-Chat
-Una aplicación simple de chat que utiliza el Protocolo de Control de Transmisión (TCP) para establecer comunicaciones bidireccionales entre un servidor y un cliente. Además, cuenta con una API HTTP para consultar mensajes.
+# 🚀 **TCP-Chat**
 
-🛠 Instalación
-Clonar el Repositorio:
-git clone [URL_DEL_REPO]
+Una aplicación simple de chat que utiliza el **Protocolo de Control de Transmisión (TCP)** para establecer comunicaciones bidireccionales entre un servidor y un cliente. Además, cuenta con una API HTTP para consultar mensajes.
+
+---
+
+## 🛠 **Instalación**
+
+- **Clonar el Repositorio**:
+  ```bash
+  git clone [URL_DEL_REPO]
 
 Instalar Dependencias:
 npm install
